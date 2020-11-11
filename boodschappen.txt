@@ -2,6 +2,7 @@ Pizza:
 -Mozarella
 -Pizzadeeg
 -Rucola
+-Parmazaanse kaas
 -Normalekaas
 -Tomatensaus
 
